@@ -24,6 +24,7 @@ public class MyInterfaceImpl implements MyInterface {
     private static HashMap<Long, String> hashMap = new HashMap<Long, String>() {
         {
             put(20210123456789L, "心心");
+            put(20210735010242L, "周恒新");
         }
     };
 
