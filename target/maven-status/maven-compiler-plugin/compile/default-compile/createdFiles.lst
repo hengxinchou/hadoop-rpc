@@ -1,0 +1,11 @@
+com/hengxin/rpc/Server.class
+com/hengxin/dynamicproxy/ProxyHandler.class
+com/hengxin/example/StudentProxy.class
+com/hengxin/example/Student.class
+com/hengxin/rpc/MyInterfaceImpl.class
+com/hengxin/rpc/VersionProtocol.class
+com/hengxin/dynamicproxy/HelloInterface.class
+com/hengxin/rpc/MyInterface.class
+com/hengxin/dynamicproxy/HelloProxy.class
+com/hengxin/example/Person.class
+com/hengxin/dynamicproxy/Hello.class
