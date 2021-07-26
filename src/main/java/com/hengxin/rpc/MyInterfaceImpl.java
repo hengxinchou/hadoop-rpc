@@ -32,6 +32,7 @@ public class MyInterfaceImpl implements MyInterface {
         return value;
     }
 
+    @Override
     public String findName(long studentID) {
         return MyInterfaceImpl.hashMap.get(studentID);
     }
