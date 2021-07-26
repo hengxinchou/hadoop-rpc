@@ -25,7 +25,7 @@ public class Client {
 
             long studentID3 = 20210735010242L;
             String name3 = proxy.findName(studentID3);
-            System.out.println("studentID " + studentID2 + " is " + name3);
+            System.out.println("studentID " + studentID3 + " is " + name3);
 
         } catch (IOException e) {
             e.printStackTrace();
